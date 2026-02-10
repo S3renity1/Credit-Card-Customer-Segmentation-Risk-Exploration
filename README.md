@@ -14,7 +14,7 @@ This project segments 30,000 credit card customers into behavioral risk profiles
 **Business Value:**
 - Identified 4 distinct customer segments with default rates ranging from 8% to 32%
 - Discovered payment delays increase default odds by 2.8x
-- Built SQL pipeline + Power BI dashboard for ongoing monitoring
+- Built Power BI dashboard for ongoing monitoring
 - **Estimated Impact:** 15% default reduction could save NT$281 million annually
 
 ## Business Insights Summary
